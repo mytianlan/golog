@@ -4,5 +4,5 @@ import (
   "fmt"
 )
 func Write() {
-  fmt.Sprintf("hello")
+  fmt.Sprintf("hello world")
 }
