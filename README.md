@@ -1,2 +1,3 @@
 # golog
+
 go log
